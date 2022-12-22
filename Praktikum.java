@@ -1,1 +1,3 @@
-1234
+public class main (String args ){
+    
+}
