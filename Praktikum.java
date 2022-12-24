@@ -1,3 +1,3 @@
-public class main1 (String args ){
+public class main (String args ){
     
 }
