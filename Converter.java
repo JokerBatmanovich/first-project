@@ -1,3 +1,3 @@
-public class Converterrr (double rubles) {
+public class Converter (double rubles) {
     
 }
